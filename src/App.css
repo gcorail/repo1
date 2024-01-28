@@ -95,6 +95,18 @@ header {
   gap: 30px;
 }
 
+.botika {
+  background-image: url(./assets/Botika.jpg);
+  width: 60px;
+  height: 60px;
+  background-position: center;
+  background-size: contain;
+
+}
+
+
+
+
 .nav1-right {
   display: flex;
   align-items: center;

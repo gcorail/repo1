@@ -38,7 +38,7 @@ const { products } = useContext(CartContext);
     <header>
         <nav id="nav1">
           <div className="nav1-left" >
-            <Link to="/"><img src="https://us.123rf.com/450wm/benidict83/benidict832011/benidict83201100045/159491387-tienda-de-licores-botella-de-whisky-ron-o-brandy.jpg?ver=6" alt="logo" width={'60px'} /></Link>
+            <Link to="/"><div className="botika"></div></Link>
             <Products />
           </div>  
           <div className="nav1-right">
